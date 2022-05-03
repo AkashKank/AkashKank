@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Kank</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkank&label=Profile%20views&color=0e75b6&style=flat" alt="akashkank" /> </p>
 
-- 🔭 I’m currently working on **Electronics Accessories Showroom**
+- 🔭 I’m currently working on my **Electronics Accessories Showroom**
 
 - 🌱 I’m currently learning **HTML , CSS & JavaScript**
 
