@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akash Kank</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkank&label=Profile%20views&color=0e75b6&style=flat" alt="akashkank" /> </p>
 
-- 🔭 I’m currently working on my **Electronics Accessories Showroom**
+- 🔭 I’m currently working as backend Django In **Sumcircle Technologies Private Limited**
 
-- 🌱 I’m currently learning **HTML , CSS & JavaScript**
+- 🌱 I’m currently learning **DjangoRest, Flask, Bootstrap**
 
-- 💬 Ask me about **C , C++ & Sql**
+- 💬 Ask me about **C , C++, Python, Django, Machine Learning, DjangoRest & Sql**
 
 - 📫 How to reach me **akashkank4@gmail.com**
 
